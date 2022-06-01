@@ -1,0 +1,23 @@
+dir - listar
+cd - mudar de pasta
+cls - limpar tela
+mkdir - criar pasta
+echo - imprime na tela
+> - criar arquivo
+del - deletar arquivo
+rmdir - deletar diretorio
+
+
+blob 9\0... - tem sha1
+trees (armazena blob) aponta para blobs ou outras arvores - tem sha1
+commits (junta tudo) aponta para arvore,parente,autor, mensagem e data/hora de criação - tem sha1
+
+chave ssh - conexão segura encriptada
+
+
+ssh-keygen -t ed25519 -C luisa_dluck@hotmail.com
+
+
+git int - criar repositorio no git
+git add - 
+git commit - 

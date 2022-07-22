@@ -1,4 +1,4 @@
-#  Desafio de projeto sobre Git/Github da DIO
+#  Desafio de projeto sobre React da DIO
 Repositorio criado para o desafio de projetos
 
 ## Links Úteis

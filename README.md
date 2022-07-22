@@ -1,4 +1,4 @@
-#  Desafio de projeto sobre React da DIO
+#  Desafio de projeto sobre ReactJS da DIO
 Repositorio criado para o desafio de projetos
 
 ## Links Úteis
